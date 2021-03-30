@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Denevola
-- 👀 I’m interested in Styling
-- 🌱 I’m currently learning JavaScript
+### 👋 Hi, I’m @Denevola
+### 👀 I’m interested in Styling
+### 🌱 I’m currently learning JavaScript
 
 <!---
 Denevola/Denevola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
